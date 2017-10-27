@@ -8,6 +8,11 @@ import java.util.EmptyStackException;
  *
  * @author Mathieu Lievre
  * Javadoc creee pour repondre a l'exigence #1
+ *
+ *   \o__
+ *   |
+ *  |\
+ *
  */
 public class Stack implements SimpleStack {
 

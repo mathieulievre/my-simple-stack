@@ -6,6 +6,11 @@ package deqo.mlie.mysimplestack;
  *
  * @author Mathieu Lievre
  * Javadoc creee pour repondre a l'exigence #1
+ *
+ *   \o__
+ *   |
+ *  |\
+ *
  */
 public class Item {
 
