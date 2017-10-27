@@ -7,7 +7,7 @@ import java.util.EmptyStackException;
  * represente une pile
  *
  * @author Mathieu Lievre
- * Javadoc creee pour repondre a l'exigence #1
+ *
  *
  *   \o__
  *   |

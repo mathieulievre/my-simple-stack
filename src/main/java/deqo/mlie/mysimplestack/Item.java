@@ -5,7 +5,7 @@ package deqo.mlie.mysimplestack;
  * represente un element pouvant etre manipule par une pile
  *
  * @author Mathieu Lievre
- * Javadoc creee pour repondre a l'exigence #1
+ *
  *
  *   \o__
  *   |
